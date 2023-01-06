@@ -1,0 +1,16 @@
+name: DiscordMCPEPM4
+author: skyss0fly
+version: "1.0.0"
+api:
+- 4.12.2
+softdepend: PurePerms
+main: skyss0fly\DiscordMCPEPM4E\Main
+commands:
+    discord:
+        description: Send an message to Discord!
+        permission: discord.send
+        usage: /discord MESSAGE
+        aliases: [dc]
+permissions:
+    discord.send:
+        default: op
