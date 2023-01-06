@@ -1,7 +1,7 @@
 # Discord-MCPE
 
 #####
-
+plugin coming soon!
 ![Discord-MCPE Logo](logo.png)
 
 
